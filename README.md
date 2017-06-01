@@ -1,6 +1,8 @@
-# Project 3: Unsupervised Learning
-## Creating Customer Segments
+# Creating Customer Segments
 
+The main objective of this project is to apply unsupervised learning techniques on product spending data collected for customers of a wholesale distributor to identify customer segments hidden in the data.
+
+## Software Requirements and Libraries
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
@@ -12,7 +14,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-Udacity recommends our students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+Udacity recommends our students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
 ### Code
 
@@ -30,3 +32,5 @@ This will open the iPython Notebook software and project file in your browser.
 ## Data
 
 The dataset used in this project is included as `customers.csv`. You can find more information on this dataset on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers) page.
+
+This project is a part of the Machine Learning Engineer Nanodegree program at [Udacity](https://www.udacity.com/).
